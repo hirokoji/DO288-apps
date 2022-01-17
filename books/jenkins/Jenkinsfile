@@ -15,7 +15,7 @@ pipeline {
         DEV_PROJECT = "lfrusl-books-dev"
         STAGE_PROJECT = "lfrusl-books-stage"
         APP_GIT_URL = "https://github.com/hirokoji/DO288-apps"
-        NEXUS_SERVER = "http://nexus-common.apps.ap45.prod.nextcle.com"
+        NEXUS_SERVER = "http://nexus-common.apps.ap45.prod.nextcle.com/repository/nodejs"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
         APP_NAME = "books"
